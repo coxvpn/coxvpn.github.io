@@ -42,7 +42,7 @@
 🟣 [**Android - برنامه آندروید**](https://drive.google.com/uc?export=download&id=1_enIxtRNIhV4z5OlE-OnSXGPrXl03iFw)  -----   [*(v8a)*](https://apps.irancdn.org/android/connectix-2.2.1.apk)- [*(v7a)*](https://apps.irancdn.org/android/connectix-2.2.1-v7a.apk) 
 
  
-🟣 [**IOS دانلود از اپل استور**](https://testflight.apple.com/join/FQkEGDfX)  _ [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web) _
+🟣 [**IOS دانلود از اپل استور**](https://testflight.apple.com/join/FQkEGDfX "مخصوص گوشیهای آیفون")  _ [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web) _
 [📷](https://github.com/user-attachments/assets/4bc946af-526b-4602-b22e-b0ddc7ea346d)
 
 🟣 [**Windows**](https://apps.irancdn.org/windows/Connectix-2.2.0.zip)
