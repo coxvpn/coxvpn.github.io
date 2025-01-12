@@ -41,7 +41,7 @@
 
 🟣 [**Android - برنامه آندروید**](https://apps.irancdn.org/android/connectix-2.2.1.apk)  -----   [*(v8a)*](https://drive.google.com/uc?export=download&id=1_enIxtRNIhV4z5OlE-OnSXGPrXl03iFw)- [*(v7a)*](https://apps.irancdn.org/android/connectix-2.2.1-v7a.apk " برای گوشیهای قدیمی") 
 
-[فعالسازی Ipv6 در آندروید](https://www.aparat.com/v/ndu013x)
+[در آندروید Ipv6 فعالسازی](https://www.aparat.com/v/ndu013x)
 
  
 🟣 [**IOS دانلود از اپل استور**](https://testflight.apple.com/join/FQkEGDfX "مخصوص گوشیهای آیفون")  _ [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web "فیلم نصب روی آیفون") 
