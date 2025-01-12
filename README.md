@@ -43,6 +43,9 @@
 
  
 🟣 [**IOS دانلود از اپل استور**](https://testflight.apple.com/join/FQkEGDfX "مخصوص گوشیهای آیفون")  _ [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web "فیلم نصب روی آیفون") _
+___
+[فعالسازی Ipv6 در IOS](https://mobileconfig.azurewebsites.net/) _ [🎥](https://www.aparat.com/v/OS1ZX)
+
 [📷](https://github.com/user-attachments/assets/4bc946af-526b-4602-b22e-b0ddc7ea346d)
 
 🟣 [**Windows**](https://apps.irancdn.org/windows/Connectix-2.2.0.zip "مخصوص ویندوز ")
