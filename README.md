@@ -43,6 +43,7 @@
 
  
 🟣 [**IOS دانلود از اپل استور**](https://testflight.apple.com/join/FQkEGDfX "مخصوص گوشیهای آیفون")  _ [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web "فیلم نصب روی آیفون") _
+
 [در گوشیهای اپل Ipv6 فعالسازی](https://mobileconfig.azurewebsites.net/) _ [🎥](https://www.aparat.com/v/OS1ZX)
 
 
