@@ -32,18 +32,18 @@
 ---
 
 <left> 
-    <left> 
+    
+        <p>
+          
+       
+</left>
+
+<left> 
         <p>
           
         </p>
        
 </left>
-
-        <p>
-          
-       
-</left>
-
 
 
 🟣 [**Android -دانلود برنامه آندروید**](https://apps.irancdn.org/android/connectix-2.3.2-univ.apk)  _  [*(backup)*](https://drive.google.com/file/d/1M2rQ3EVxl1rZN1MALqthGV9U9tj_svls/view?usp=sharing)
