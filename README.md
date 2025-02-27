@@ -41,12 +41,10 @@
 
 🟣 [**Android - برنامه آندروید**](https://apps.irancdn.org/android/connectix-2.3.2-univ.apk)  _  
 
-[*(2)*](https://drive.google.com/file/d/1M2rQ3EVxl1rZN1MALqthGV9U9tj_svls/view?usp=sharing)- _[در آندروید Ipv6 فعالسازی](https://www.aparat.com/v/ndu013x)
+[*(2)*](https://drive.google.com/file/d/1M2rQ3EVxl1rZN1MALqthGV9U9tj_svls/view?usp=sharing)- 
 
  
-🟣 [**IOS دانلود از اپل استور**](https://testflight.apple.com/join/FQkEGDfX "مخصوص گوشیهای آیفون")  _ [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web "فیلم نصب روی آیفون") _
-
-[در گوشیهای اپل Ipv6 فعالسازی](https://mobileconfig.azurewebsites.net/) _ [🎥](https://www.aparat.com/v/OS1ZX)
+🟣 [**IOS دانلود از اپل استور**](https://testflight.apple.com/join/FQkEGDfX "مخصوص گوشیهای آیفون")  _ [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web "فیلم نصب روی آ_ [🎥](https://www.aparat.com/v/OS1ZX)
 
 
 
@@ -55,6 +53,11 @@
 
 
 ---
+_[در آندروید Ipv6 فعالسازی](https://www.aparat.com/v/ndu013x)
+
+یفون") _
+
+[در گوشیهای اپل Ipv6 فعالسازی](https://mobileconfig.azurewebsites.net/) 
 <h1>
 <center> 
  خرید اکانت از ربات تلگرام ما
