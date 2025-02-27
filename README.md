@@ -39,7 +39,7 @@
 
 
 
-🟣 [**Android -دانلود برنامه آندروید**](https://apps.irancdn.org/android/connectix-2.3.2-univ.apk)  _  [*(لینک پشتیبان)*](https://drive.google.com/file/d/1M2rQ3EVxl1rZN1MALqthGV9U9tj_svls/view?usp=sharing)- 
+🟣 [**Android -دانلود برنامه آندروید**](https://apps.irancdn.org/android/connectix-2.3.2-univ.apk)  _  [*(backup)*](https://drive.google.com/file/d/1M2rQ3EVxl1rZN1MALqthGV9U9tj_svls/view?usp=sharing)- 
 
  
 🟣 [**IOS دانلود از اپل استور**](https://testflight.apple.com/join/FQkEGDfX "مخصوص گوشیهای آیفون")  _ [🎥](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web "فیلم نصب روی آیفون") __ [🎥](https://www.aparat.com/v/OS1ZX)
