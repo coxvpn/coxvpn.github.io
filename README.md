@@ -53,6 +53,7 @@
 
 ---
 [در آندروید Ipv6 فعالسازی](https://www.aparat.com/v/ndu013x)
+![photo_2025-03-12_09-41-53](https://github.com/user-attachments/assets/986a5760-46a5-43c9-8491-0e49f0c67385)
 
 
 [در گوشیهای اپل Ipv6 فعالسازی](https://mobileconfig.azurewebsites.net/) 
