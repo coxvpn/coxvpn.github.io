@@ -47,7 +47,7 @@
 
 
 
-🟣 [**Windows**](https://apps.irancdn.org/windows/Connectix-2.2.0.zip "مخصوص ویندوز ")
+🟣 [**Windows**](https://apps.irancdn.org/windows/Connectix-2.5.0.zip "مخصوص ویندوز ")
 
 
 
