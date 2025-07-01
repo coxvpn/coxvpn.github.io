@@ -20,7 +20,7 @@
 <body>
 
 <div class="header">
-    <span class="brand">موبایل مصطفی</span><br>
+    <span class="brand">FixGsm</span><br>
     کلیه خدمات تلفن همراه - @Fastfixgsm
 </div>
 
