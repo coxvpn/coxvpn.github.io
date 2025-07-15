@@ -21,7 +21,7 @@
 
 <div class="header">
     <span class="brand">FixGsm</span><br>
-    کلیه خدمات تلفن همراه - @Fastfixgsm
+    کلیه خدمات تلفن همراه - 09354811944
 </div>
 
 <!-- سایر محتوای صفحه شما اینجا قرار می‌گیرد -->
@@ -104,7 +104,7 @@
 
 <img src="image/5.jpg" />
 
-![photo_۲۰۲۵-۰۷-۱۵_۱۸-۴۹-۰۴](https://github.com/user-attachments/assets/27018417-f779-4d42-be7c-e0d2a48f81cd)
+
 
 __________________________________________
 
