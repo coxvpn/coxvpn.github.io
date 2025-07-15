@@ -1,10 +1,10 @@
-[Android](https://apps.irancdn.org/android/connectix-2.5.2-univ.apk)
+[Android دانلود اندروید ](https://apps.irancdn.org/android/connectix-2.5.2-univ.apk)
 
 
-[ios](https://testflight.apple.com/join/FQkEGDfX)
+[ios دانلود آیفون](https://testflight.apple.com/join/FQkEGDfX)
 
 
-[Windows](https://apps.irancdn.org/windows/connectix-2.5.2-win.zip)
+[Windowsدانلود ویندوز ](https://apps.irancdn.org/windows/connectix-2.5.2-win.zip)
 
 
 لطفا نکات زیر رو مطالعه بفرمائید
