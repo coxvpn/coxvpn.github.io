@@ -13,6 +13,7 @@ pass: admin
 - [Windowsویندوز](https://apps.irancdn.org/windows/connectix-2.5.2-win.zip)
 
 ---
+<img width="540" height="1112" alt="Screenshot_20260429_114654_Connectix (1)" src="https://github.com/user-attachments/assets/552b55ae-4653-4391-b023-3877ec2dfc95" />
 
 ## ارتباط با ما
 
