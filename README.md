@@ -9,7 +9,9 @@ pass: admin
 
 
 ----
-- [iOS (برای آیفون)](https://testflight.apple.com/join/FQkEGDfX) | [فیلم نصب](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
+- [iOS (برای آیفون)](https://testflight.apple.com/join/FQkEGDfX) |
+-
+-   [فیلم نصب](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
 
 ---
 - [Windowsویندوز](https://apps.irancdn.org/windows/connectix-2.5.2-win.zip)
