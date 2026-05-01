@@ -4,7 +4,9 @@
 ---
 -[Android اندروید ورژن جدید](https://erfanzadeh.ir/files/Connectix_V_2.6.3_v8a.apk) 
 
-.برای دانلود username: admin  pass: admin
+username: admin
+pass: admin
+
 
 ----
 - [iOS (برای آیفون)](https://testflight.apple.com/join/FQkEGDfX) | [فیلم نصب](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
