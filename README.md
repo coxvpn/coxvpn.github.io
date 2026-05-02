@@ -1,7 +1,8 @@
 ## 📥 دانلود برنامه Connectix
 
 ### 📱 Android (اندروید)
-[دانلود و نصب](https://apps.irancdn.org/android/connectix-2.5.2-univ.apk)
+[دانلود نسخه 2.5.2](https://apps.irancdn.org/android/connectix-2.5.2-univ.apk)  
+[دانلود نسخه کم‌حجم](لینک_نسخه_کم_حجم)
 
 ---
 
