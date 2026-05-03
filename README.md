@@ -2,8 +2,7 @@
 
 ### 📱 Android (اندروید)
 [دانلود نسخه 2.5.2](https://apps.irancdn.org/android/connectix-2.5.2-univ.apk)  
-[دانلود نسخه کم‌حجم](لینک_نسخه_کم_حجم)
-
+[دانلود نسخه کم‌حجم](https://apps.irancdn.org/android/connectix-2.5.2-v8a.apk)
 ---
 
 ### 🍎 iOS (آیفون)
