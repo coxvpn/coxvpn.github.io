@@ -13,7 +13,7 @@
 ---
 
 ### 💻 Windows (ویندوز)
-[دانلود نسخه ویندوز](https://apps.irancdn.org/windows/connectix-2.5.2-win.zip)
+[دانلود نسخه ویندوز](https://apps.irancdn.org/windows/Connectix-Win-2.6.1.zip)
 
 ---
 
