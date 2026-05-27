@@ -1,4 +1,3 @@
-```html id="m5v8ra"
 ## 📥 دانلود برنامه Connectix
 
 ### 📱 Android (اندروید)
@@ -34,4 +33,4 @@
 
 📨 <a href="http://t.me/fastfixgsm">Telegram</a>  
 ✉️ <a href="mailto:gfix4600@gmail.com">Email</a>
-```
+
