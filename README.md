@@ -28,8 +28,8 @@
 <img src="https://github.com/user-attachments/assets/7ccb70a0-17bb-492b-9d71-cc33843e11ae" width="220">
 
 ---
-<a href="text.html1">17 قدم راهبردی و کار آمد برای کاهش مصرف دیتا</a>
-<a href="text.html2"> نحوه جلوگیری از مصرف پنهان ویندوز </a>
+<a href="text2.md">17 قدم راهبردی و کار آمد برای کاهش مصرف دیتا</a>
+<a href="text1.md"> نحوه جلوگیری از مصرف پنهان ویندوز </a>
 ---
 ## 📞 ارتباط با ما
 
