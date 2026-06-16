@@ -24,10 +24,11 @@
 ---
 
 ### 🖼️ نمایی از محیط برنامه
+<img width="100" height="100" alt="photo_2026-06-16_12-50-10" src="https://github.com/user-attachments/assets/131e8f66-0e29-4067-8194-11f9e6c550ae" />
 
 <img src="https://github.com/user-attachments/assets/544977b5-ba8b-4738-b6c0-3fdbf4211938" width="220">
 
-<img width="50" height="50" alt="photo_2026-06-16_12-50-10" src="https://github.com/user-attachments/assets/131e8f66-0e29-4067-8194-11f9e6c550ae" />
+
 
 
 
