@@ -2,10 +2,10 @@
 
 ### 📱 Android (اندروید)
 
-<a href="https://drive.google.com/file/d/1wnvgNLbryCOvJK_tu6VA6-a9LNOTXg3B/view?usp=sharing"> 1 - دانلود نسخه جدید 2.7.2 برای گوشی های جدید
+1 - <a href="https://drive.google.com/file/d/1wnvgNLbryCOvJK_tu6VA6-a9LNOTXg3B/view?usp=sharing">  دانلود نسخه جدید 2.7.2 برای گوشی های جدید
 </a>
 
-<a href="https://drive.google.com/file/d/1Zs1ugBSFtUBwcu5PqFos4TQoN_HMOsY9/view?usp=sharing)"> 2 - دانلود نسخه جدید 2.7.2 برای گوشی های قدیمی
+2 - <a href="https://drive.google.com/file/d/1Zs1ugBSFtUBwcu5PqFos4TQoN_HMOsY9/view?usp=sharing)">  دانلود نسخه جدید 2.7.2 برای گوشی های قدیمی
 
 </a>
 
