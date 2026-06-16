@@ -1,72 +1,81 @@
-## 📥 دانلود برنامه Connectix
+# 📥 دانلود برنامه Connectix
 
-### 📱 Android (اندروید)
+## 📱 Android (اندروید)
 
-1 - <a href="https://drive.google.com/file/d/1wnvgNLbryCOvJK_tu6VA6-a9LNOTXg3B/view?usp=sharing">  دانلود نسخه جدید 2.7.2 برای گوشی های جدید
-</a>
+✅ [دانلود نسخه 2.7.2 مخصوص گوشی‌های جدید](https://drive.google.com/file/d/1wnvgNLbryCOvJK_tu6VA6-a9LNOTXg3B/view?usp=sharing)
 
-2 - <a href="https://drive.google.com/file/d/1Zs1ugBSFtUBwcu5PqFos4TQoN_HMOsY9/view?usp=sharing)">  دانلود نسخه جدید 2.7.2 برای گوشی های قدیمی
-
+✅ [دانلود نسخه 2.7.2 مخصوص گوشی‌های قدیمی](https://drive.google.com/file/d/1Zs1ugBSFtUBwcu5PqFos4TQoN_HMOsY9/view?usp=sharing)
 
 ---
 
-### 🍎 iOS (آیفون)
+## 🍎 iPhone (آیفون)
 
-🍏 <a href="https://testflight.apple.com/join/FQkEGDfX">دانلود از اپل استور</a>  
-🎬 <a href="https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web">فیلم آموزش نصب</a>
+🍏 [دانلود از TestFlight](https://testflight.apple.com/join/FQkEGDfX)
 
----
-
-### 💻 Windows (ویندوز)
-
-🖥️ <a href="https://apps.irancdn.org/windows/Connectix-Win-2.6.1.zip">دانلود نسخه ویندوز</a>
+🎬 [فیلم آموزش نصب](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
 
 ---
 
-### 🖼️ نمایی از محیط برنامه
-<img width="100" height="100" alt="photo_2026-06-16_12-50-10" src="https://github.com/user-attachments/assets/131e8f66-0e29-4067-8194-11f9e6c550ae" />
+## 💻 Windows (ویندوز)
 
-<img src="https://github.com/user-attachments/assets/544977b5-ba8b-4738-b6c0-3fdbf4211938" width="220">
-
-
-
-
-
----
-1 _ سرویس ویژه گیگی 25 هزارتومان
-
-✅ دارای بیش از 10 کشور
-
-✅ دارای حدود 4-5 پروتکل اتصالی مختلف
-
-✅ دارای کانکشن‌های زیاد و مختلف (= داشتن تمامی دیتاسنترها = پایداری افراطی و حداکثری در ایران)
-
-✅ دارای کانکشن‌های آی‌پی‌ثابت
-
-✅ دارای سرویس کاهش پینگ و کانکشن‌های مخصوص بازی
-
-2 _ سرویس اقتصادی گیگی  15 هزار تومان 
-
-✅ دارای حداقل 3 کشور
-
-✅ دارای 1 پروتکل اتصالی
-
-✅ دارای تعدادی کافی کانکشن و تضمین پایداری
-
-در صورت بروز شرایط جنگی و قطع کامل اینترنت نیز هر دو سرویس پشتیبانی می‌شوند و کانکشن‌های بیزینس کلس درون آنها با ضریب لازمه و نه خیلی بالا اضافه خواهد شد.
-
-مهمترین نکته در سیاست جدید؛ تضمین پایداری سرویس اقتصادی است و دیگر نیاز نیست نگران پایداری آن باشید اما همچنان از نظر امکانات، کیفیت و پایداری بهتر به پای سرویس ویژه نمی‌رسد؛ اما از نظر قیمتی برای رقابت در بازارهای رقابتی طراحی شده است.
+🖥️ [دانلود نسخه ویندوز](https://apps.irancdn.org/windows/Connectix-Win-2.6.1.zip)
 
 ---
 
-3 - <a href="https://apps.irancdn.org/android/connectix-2.5.2-univ.apk">دانلود نسخه 2.5.2</a>  
-4 -  <a href="https://apps.irancdn.org/android/connectix-2.5.2-v8a.apk">دانلود نسخه کم‌حجم</a>  
-5 -  <a href="https://apps.irancdn.org/android/connectix-2.5.2-v7a.apk">دانلود نسخه مخصوص گوشی‌های اندروید قدیمی</a>
+## 🖼️ نمایی از محیط برنامه
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/131e8f66-0e29-4067-8194-11f9e6c550ae" width="120">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/544977b5-ba8b-4738-b6c0-3fdbf4211938" width="220">
+</p>
+
+---
+
+# 🚀 سرویس ویژه گیگی — 25,000 تومان
+
+✅ بیش از 10 کشور
+
+✅ چندین پروتکل اتصال مختلف
+
+✅ تعداد زیاد کانکشن و دیتاسنتر
+
+✅ دارای آی‌پی ثابت
+
+✅ کانکشن مخصوص بازی و کاهش پینگ
+
+✅ حداکثر پایداری در شرایط مختلف
+
+---
+
+# 💰 سرویس اقتصادی گیگی — 15,000 تومان
+
+✅ حداقل 3 کشور
+
+✅ یک پروتکل اتصال
+
+✅ کانکشن‌های کافی و پایدار
+
+✅ مناسب استفاده روزمره با هزینه کمتر
+
+---
+
+📢 در صورت بروز محدودیت‌های شدید اینترنت، هر دو سرویس پشتیبانی شده و کانکشن‌های مورد نیاز برای حفظ پایداری سرویس اضافه خواهند شد.
+
+---
+
+## 📦 نسخه‌های قدیمی‌تر اندروید
+
+🔹 [دانلود نسخه 2.5.2 کامل](https://apps.irancdn.org/android/connectix-2.5.2-univ.apk)
+
+🔹 [دانلود نسخه کم‌حجم](https://apps.irancdn.org/android/connectix-2.5.2-v8a.apk)
+
+🔹 [دانلود نسخه مخصوص گوشی‌های قدیمی](https://apps.irancdn.org/android/connectix-2.5.2-v7a.apk)
 
 ---
 
 ## 📞 ارتباط با ما
 
-📨 <a href="http://t.me/fastfixgsm">Telegram</a>  
-✉️ <a href="mailto:gfix4600@gmail.com">Email</a>
+📨 Telegram: https://t.me/fastfixgsm
 
+✉️ Email: gfix4600@gmail.com
