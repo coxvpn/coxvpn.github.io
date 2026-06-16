@@ -1,3 +1,4 @@
+<img width="640" height="640" alt="photo_2026-06-16_12-50-10" src="https://github.com/user-attachments/assets/f3e83a3a-2980-4f77-92dd-c8f9f8e9ba0b" />
 ## 📥 دانلود برنامه Connectix
 
 ### 📱 Android (اندروید)
@@ -27,6 +28,7 @@
 
 <img src="https://github.com/user-attachments/assets/544977b5-ba8b-4738-b6c0-3fdbf4211938" width="220">
 
+<img width="640" height="640" alt="photo_2026-06-16_12-50-10" src="https://github.com/user-attachments/assets/91386c1c-65bc-4053-b102-b89e2fb0eee4" />
 
 
 ---
