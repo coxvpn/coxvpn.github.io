@@ -33,7 +33,7 @@
 
 <img src="https://github.com/user-attachments/assets/544977b5-ba8b-4738-b6c0-3fdbf4211938" width="220">
 
-<img src="https://github.com/user-attachments/assets/7ccb70a0-17bb-492b-9d71-cc33843e11ae" width="220">
+
 
 ---
 <a href="text2.md"> 17 قدم راهبردی و کار آمد برای کاهش مصرف دیتا </a>
