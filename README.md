@@ -7,7 +7,6 @@
 
 2 - <a href="https://drive.google.com/file/d/1Zs1ugBSFtUBwcu5PqFos4TQoN_HMOsY9/view?usp=sharing)">  دانلود نسخه جدید 2.7.2 برای گوشی های قدیمی
 
-</a>
 
 ---
 3 - <a href="https://apps.irancdn.org/android/connectix-2.5.2-univ.apk">دانلود نسخه 2.5.2</a>  
