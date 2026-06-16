@@ -5,9 +5,9 @@
 ✅ [دانلود نسخه 2.7.2 نسخه عمومی ](https://apps.irancdn.org/android/connectix-2.7.2+119-universal.apk)
 
 
-✅ [دانلود نسخه 2.7.2 مخصوص گوشی‌های جدید](https://apps.irancdn.org/android/connectix-2.7.2+119-arm64-v8a.apk)
+✅ [دانلود نسخه 2.7.2 کم جچم مخصوص گوشی‌های جدید](https://apps.irancdn.org/android/connectix-2.7.2+119-arm64-v8a.apk)
 
-✅ [دانلود نسخه 2.7.2 مخصوص گوشی‌های قدیمی](https://apps.irancdn.org/android/connectix-2.7.2+119-armeabi-v7a.apk)
+✅ [دانلود نسخه 2.7.2 کم حجم مخصوص گوشی‌های قدیمی](https://apps.irancdn.org/android/connectix-2.7.2+119-armeabi-v7a.apk)
 
 ---
 
