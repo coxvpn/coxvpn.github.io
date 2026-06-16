@@ -9,11 +9,6 @@
 
 
 ---
-3 - <a href="https://apps.irancdn.org/android/connectix-2.5.2-univ.apk">دانلود نسخه 2.5.2</a>  
-4 -  <a href="https://apps.irancdn.org/android/connectix-2.5.2-v8a.apk">دانلود نسخه کم‌حجم</a>  
-5 -  <a href="https://apps.irancdn.org/android/connectix-2.5.2-v7a.apk">دانلود نسخه مخصوص گوشی‌های اندروید قدیمی</a>
-
----
 
 ### 🍎 iOS (آیفون)
 
@@ -54,6 +49,13 @@
 مهمترین نکته در سیاست جدید؛ تضمین پایداری سرویس اقتصادی است و دیگر نیاز نیست نگران پایداری آن باشید اما همچنان از نظر امکانات، کیفیت و پایداری بهتر به پای سرویس ویژه نمی‌رسد؛ اما از نظر قیمتی برای رقابت در بازارهای رقابتی طراحی شده است.
 
 ---
+
+3 - <a href="https://apps.irancdn.org/android/connectix-2.5.2-univ.apk">دانلود نسخه 2.5.2</a>  
+4 -  <a href="https://apps.irancdn.org/android/connectix-2.5.2-v8a.apk">دانلود نسخه کم‌حجم</a>  
+5 -  <a href="https://apps.irancdn.org/android/connectix-2.5.2-v7a.apk">دانلود نسخه مخصوص گوشی‌های اندروید قدیمی</a>
+
+---
+
 ## 📞 ارتباط با ما
 
 📨 <a href="http://t.me/fastfixgsm">Telegram</a>  
