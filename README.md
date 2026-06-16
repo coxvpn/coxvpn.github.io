@@ -5,14 +5,14 @@
 <a href="https://drive.google.com/file/d/1wnvgNLbryCOvJK_tu6VA6-a9LNOTXg3B/view?usp=sharing"> 1 - دانلود نسخه جدید 2.7.2 برای گوشی های جدید
 </a>
 
-<a href="https://drive.google.com/file/d/1Zs1ugBSFtUBwcu5PqFos4TQoN_HMOsY9/view?usp=sharing)"> 🔹 دانلود نسخه جدید 2.7.2 برای گوشی های قدیمی
+<a href="https://drive.google.com/file/d/1Zs1ugBSFtUBwcu5PqFos4TQoN_HMOsY9/view?usp=sharing)"> 2 - دانلود نسخه جدید 2.7.2 برای گوشی های قدیمی
 
 </a>
 
 ---
-🔹 <a href="https://apps.irancdn.org/android/connectix-2.5.2-univ.apk">دانلود نسخه 2.5.2</a>  
-🔸 <a href="https://apps.irancdn.org/android/connectix-2.5.2-v8a.apk">دانلود نسخه کم‌حجم</a>  
-⭐ <a href="https://apps.irancdn.org/android/connectix-2.5.2-v7a.apk">دانلود نسخه مخصوص گوشی‌های اندروید قدیمی</a>
+3 - <a href="https://apps.irancdn.org/android/connectix-2.5.2-univ.apk">دانلود نسخه 2.5.2</a>  
+4 -  <a href="https://apps.irancdn.org/android/connectix-2.5.2-v8a.apk">دانلود نسخه کم‌حجم</a>  
+5 -  <a href="https://apps.irancdn.org/android/connectix-2.5.2-v7a.apk">دانلود نسخه مخصوص گوشی‌های اندروید قدیمی</a>
 
 ---
 
