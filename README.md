@@ -2,19 +2,13 @@
 
 ## 📱 Android (اندروید)
 
-<a href="https://drive.google.com/file/d/1wnvgNLbryCOvJK_tu6VA6-a9LNOTXg3B/view?usp=sharing">
-<img src="https://img.shields.io/badge/دانلود%20نسخه%202.7.2-گوشی‌های%20جدید-success?style=for-the-badge">
-</a>
+✅ [دانلود نسخه 2.7.2 مخصوص گوشی‌های جدید](https://drive.google.com/file/d/1wnvgNLbryCOvJK_tu6VA6-a9LNOTXg3B/view?usp=sharing)
 
-<br><br>
-
-<a href="https://drive.google.com/file/d/1Zs1ugBSFtUBwcu5PqFos4TQoN_HMOsY9/view?usp=sharing">
-<img src="https://img.shields.io/badge/دانلود%20نسخه%202.7.2-گوشی‌های%20قدیمی-orange?style=for-the-badge">
-</a>
+✅ [دانلود نسخه 2.7.2 مخصوص گوشی‌های قدیمی](https://drive.google.com/file/d/1Zs1ugBSFtUBwcu5PqFos4TQoN_HMOsY9/view?usp=sharing)
 
 ---
 
-## 🍎 iPhone (آیفون)
+## 🍎 iOS (آیفون)
 
 🍏 [دانلود از TestFlight](https://testflight.apple.com/join/FQkEGDfX)
 
@@ -31,57 +25,52 @@
 ## 🖼️ نمایی از محیط برنامه
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/131e8f66-0e29-4067-8194-11f9e6c550ae" width="120">
-
-<img src="https://github.com/user-attachments/assets/544977b5-ba8b-4738-b6c0-3fdbf4211938" width="220">
+  <img src="https://github.com/user-attachments/assets/131e8f66-0e29-4067-8194-11f9e6c550ae" width="120">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/544977b5-ba8b-4738-b6c0-3fdbf4211938" width="220">
 </p>
 
 ---
 
-## 🚀 سرویس ویژه گیگی — 25,000 تومان
+# 🚀 سرویس ویژه گیگی — 25,000 تومان
 
-✅ بیش از 10 کشور
+✅ دارای بیش از 10 کشور
 
-✅ حدود 4 تا 5 پروتکل اتصالی
+✅ دارای حدود 4 تا 5 پروتکل اتصالی مختلف
 
-✅ کانکشن‌های متعدد و متنوع
+✅ دارای کانکشن‌های زیاد و متنوع
 
-✅ آی‌پی ثابت
+✅ دارای آی‌پی ثابت
 
-✅ کانکشن مخصوص بازی و کاهش پینگ
+✅ دارای سرویس کاهش پینگ و کانکشن‌های مخصوص بازی
 
-✅ حداکثر پایداری
-
----
-
-## 💰 سرویس اقتصادی گیگی — 15,000 تومان
-
-✅ حداقل 3 کشور
-
-✅ یک پروتکل اتصالی
-
-✅ کانکشن‌های کافی و پایدار
-
-✅ مناسب استفاده روزمره
+✅ حداکثر پایداری در ایران
 
 ---
 
-📢 در صورت بروز محدودیت‌های شدید اینترنت، هر دو سرویس پشتیبانی شده و کانکشن‌های مورد نیاز برای حفظ پایداری سرویس اضافه خواهند شد.
+# 💰 سرویس اقتصادی گیگی — 15,000 تومان
+
+✅ دارای حداقل 3 کشور
+
+✅ دارای 1 پروتکل اتصالی
+
+✅ دارای تعداد کافی کانکشن و پایداری مناسب
+
+✅ مناسب استفاده روزمره و اقتصادی
 
 ---
 
-<details>
-<summary><b>📦 نمایش نسخه‌های قدیمی‌تر اندروید</b></summary>
+📢 در صورت بروز شرایط خاص و محدودیت‌های اینترنت، هر دو سرویس پشتیبانی شده و کانکشن‌های مورد نیاز برای حفظ پایداری سرویس اضافه خواهند شد.
 
-<br>
+---
+
+## 📦 نسخه‌های قدیمی‌تر اندروید
 
 🔹 [دانلود نسخه 2.5.2 کامل](https://apps.irancdn.org/android/connectix-2.5.2-univ.apk)
 
 🔹 [دانلود نسخه کم‌حجم](https://apps.irancdn.org/android/connectix-2.5.2-v8a.apk)
 
 🔹 [دانلود نسخه مخصوص گوشی‌های اندروید قدیمی](https://apps.irancdn.org/android/connectix-2.5.2-v7a.apk)
-
-</details>
 
 ---
 
