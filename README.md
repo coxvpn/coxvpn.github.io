@@ -69,7 +69,8 @@
 
 
 ## 📞 ارتباط با ما
+📨 <a href="https://coxvpn.blogix.r"> وبلاگ </a>
 
-📨 <a href="http://t.me/fastfixgsm">Telegram</a>
+📨 <a href="https://t.me/fastfixgsm">Telegram</a>
 
 ✉️ <a href="mailto:gfix4600@gmail.com">Email</a>
