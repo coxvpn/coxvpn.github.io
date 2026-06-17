@@ -69,7 +69,7 @@
 
 
 ## 📞 ارتباط با ما
-📨 <a href="https://coxvpn.blogix.r"> وبلاگ </a>
+📨 <a href="https://coxvpn.blogix.ir"> وبلاگ </a>
 
 📨 <a href="https://t.me/fastfixgsm">Telegram</a>
 
