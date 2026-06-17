@@ -11,7 +11,7 @@
 ✅ [دانلود نسخه 2.7.2 کم حجم مخصوص گوشی‌های قدیمی](https://apps.irancdn.org/android/connectix-2.7.2+119-armeabi-v7a.apk)
 
 
-<img width="3000" height="100" alt="403426386-07eafb9d-90d9-4a48-ab24-bc6ba5c86983" src="https://github.com/user-attachments/assets/f04cf901-b902-4240-ae92-96ccb98d373b" />
+---
 ## 🍎 iOS (آیفون)
 
 
@@ -19,15 +19,13 @@
 
 🎬 [فیلم آموزش نصب](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
 
-<img width="3000" height="100" alt="403426386-07eafb9d-90d9-4a48-ab24-bc6ba5c86983" src="https://github.com/user-attachments/assets/f04cf901-b902-4240-ae92-96ccb98d373b" />
-
+---
 
 ## 💻 Windows (ویندوز)
 
 🖥️ [دانلود نسخه ویندوز](https://apps.irancdn.org/windows/Connectix-Win-2.6.1.zip)
 
-<img width="3000" height="100" alt="403426386-07eafb9d-90d9-4a48-ab24-bc6ba5c86983" src="https://github.com/user-attachments/assets/f04cf901-b902-4240-ae92-96ccb98d373b" />
-
+---
 
 ## 🖼️ نمایی از محیط برنامه
 
@@ -37,8 +35,7 @@
   <img src="https://github.com/user-attachments/assets/544977b5-ba8b-4738-b6c0-3fdbf4211938" width="220">
 </p>
 
-<img width="3000" height="100" alt="403426386-07eafb9d-90d9-4a48-ab24-bc6ba5c86983" src="https://github.com/user-attachments/assets/f04cf901-b902-4240-ae92-96ccb98d373b" />
-
+---
 
 # 🚀 سرویس ویژه گیگی — 25,000 تومان
 
@@ -54,8 +51,7 @@
 
 ✅ حداکثر پایداری در ایران
 
-<img width="3000" height="100" alt="403426386-07eafb9d-90d9-4a48-ab24-bc6ba5c86983" src="https://github.com/user-attachments/assets/f04cf901-b902-4240-ae92-96ccb98d373b" />
-
+---
 
 # 💰 سرویس اقتصادی گیگی — 15,000 تومان
 
@@ -67,13 +63,11 @@
 
 ✅ مناسب استفاده روزمره و اقتصادی
 
-<img width="3000" height="100" alt="403426386-07eafb9d-90d9-4a48-ab24-bc6ba5c86983" src="https://github.com/user-attachments/assets/f04cf901-b902-4240-ae92-96ccb98d373b" />
-
+---
 
 📢 در صورت بروز شرایط خاص و محدودیت‌های اینترنت، هر دو سرویس پشتیبانی شده و کانکشن‌های مورد نیاز برای حفظ پایداری سرویس اضافه خواهند شد.
 
-<img width="3000" height="100" alt="403426386-07eafb9d-90d9-4a48-ab24-bc6ba5c86983" src="https://github.com/user-attachments/assets/f04cf901-b902-4240-ae92-96ccb98d373b" />
-
+---
 
 
 ## 📞 ارتباط با ما
