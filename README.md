@@ -23,7 +23,7 @@
 
 ## 💻 Windows (ویندوز)
 
-🖥️ [دانلود نسخه ویندوز](https://apps.irancdn.org/windows/Connectix-Win-2.6.1.zip)
+🖥️ [دانلود نسخه ویندوز](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/windows/Connectix-2.7.3+120-windows-setup.zip)
 
 ---
 
