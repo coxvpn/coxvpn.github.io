@@ -13,7 +13,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3448c6a6-2b3c-43ee-bf3b-498e4634e30b" width="120">
+  <img src="https://github.com/user-attachments/assets/3448c6a6-2b3c-43ee-bf3b-498e4634e30b" width="220">
   &nbsp;&nbsp;&nbsp;
  
   <img src="https://github.com/user-attachments/assets/bd612aaf-874f-4ee5-94e9-a06747e58649" width="220">
