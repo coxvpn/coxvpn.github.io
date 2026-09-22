@@ -12,6 +12,15 @@
 
 
 ---
+
+<img width="591" height="1280" alt="photo_2026-09-22_16-38-52" src="https://github.com/user-attachments/assets/bd612aaf-874f-4ee5-94e9-a06747e58649" />
+<img width="591" height="1280" alt="photo_2026-09-22_16-38-49" src="https://github.com/user-attachments/assets/3448c6a6-2b3c-43ee-bf3b-498e4634e30b" />
+
+---
+
+
+
+
 ## 🍎 iOS (آیفون)
 
 
