@@ -14,6 +14,8 @@
 ---
 ## آموز بروزرسانی کانکشن ها
 <p align="center">
+   <img src="https://github.com/user-attachments/assets/131e8f66-0e29-4067-8194-11f9e6c550ae" width="120">
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/3448c6a6-2b3c-43ee-bf3b-498e4634e30b" width="220">
   &nbsp;&nbsp;&nbsp;
  
@@ -43,8 +45,7 @@
 ## 🖼️ نمایی از محیط برنامه
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/131e8f66-0e29-4067-8194-11f9e6c550ae" width="120">
-  &nbsp;&nbsp;&nbsp;
+ 
   <img src="https://github.com/user-attachments/assets/544977b5-ba8b-4738-b6c0-3fdbf4211938" width="220">
 </p>
 
