@@ -12,7 +12,7 @@
 
 
 ---
-## آموز بروزرسانی کانکشن ها
+## آموزش بروزرسانی کانکشن ها
 <p align="center">
    <img src="https://github.com/user-attachments/assets/131e8f66-0e29-4067-8194-11f9e6c550ae" width="120">
   &nbsp;&nbsp;&nbsp;
@@ -20,6 +20,9 @@
   &nbsp;&nbsp;&nbsp;
  
   <img src="https://github.com/user-attachments/assets/bd612aaf-874f-4ee5-94e9-a06747e58649" width="220">
+
+ <img src="https://github.com/user-attachments/assets/e0429e1e-3da0-4dc1-889f-c497779d2692" width="220">
+ 
 </p>
 
 ---
