@@ -23,6 +23,9 @@
 
  <img src="[https://github.com/user-attachments/assets/e0429e1e-3da0-4dc1-889f-c497779d2692](https://github.com/user-attachments/assets/9cc613f7-88d0-4858-bc4f-3ed6ee7ccec8)" width="220">
 
+<img src="https://github.com/user-attachments/assets/eb92eea6-cb26-442c-8e1f-97be7f183ed5" width="220">
+
+
 </p>
 
 ---
@@ -42,15 +45,6 @@
 ## 💻 Windows (ویندوز)
 
 🖥️ [دانلود نسخه ویندوز](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/windows/Connectix-2.7.3+120-windows-setup.zip)
-
----
-
-## 🖼️ نمایی از محیط برنامه
-
-<p align="center">
- 
-  <img src="https://github.com/user-attachments/assets/544977b5-ba8b-4738-b6c0-3fdbf4211938" width="220">
-</p>
 
 ---
 
