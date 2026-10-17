@@ -3,12 +3,12 @@
 
 ## 📱 Android (اندروید)
 
-✅ [دانلود نسخه عمومی ](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-universal-2.7.3.apk)
+✅ [دانلود نسخه عمومی ](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-universal-3.1.0.apk)
 
 
-✅ [دانلود نسخه گوشی‌های جدید](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-arm64-v8a-2.7.3.apk)
+✅ [دانلود نسخه گوشی‌های جدید](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-arm64-v8a-3.1.0.apk)
 
-✅ [دانلود نسخه گوشی‌های قدیمی](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-armeabi-v7a-2.7.3.apk)
+✅ [دانلود نسخه گوشی‌های قدیمی](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-armeabi-v7a-3.1.0.apk)
 
 
 ---
