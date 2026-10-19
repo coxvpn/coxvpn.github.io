@@ -11,12 +11,16 @@
 ✅ [دانلود نسخه گوشی‌های قدیمی](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-armeabi-v7a-3.1.0.apk)
 
 
+
+
+
+
 ---
 ## آموزش بروزرسانی کانکشن ها
 <p align="center">
    <img src="https://github.com/user-attachments/assets/131e8f66-0e29-4067-8194-11f9e6c550ae" width="120">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/3448c6a6-2b3c-43ee-bf3b-498e4634e30b" width="290">
+  <img src="https://github.com/user-attachments/assets/345fe813-c406-4f50-9434-6eee3f8cd9af" width="290">
   &nbsp;&nbsp;&nbsp;
  
   <img src="https://github.com/user-attachments/assets/bd612aaf-874f-4ee5-94e9-a06747e58649" width="290">
