@@ -4,12 +4,13 @@
 
 ## 📱 اندروید
 
-| نسخه | دانلود |
-|------|--------|
-| **عمومی** (پیشنهادی) | [دانلود APK](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-universal-3.1.0.apk) |
-| گوشی‌های جدید (arm64) | [دانلود](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-arm64-v8a-3.1.0.apk) |
-| گوشی‌های قدیمی | [دانلود](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-armeabi-v7a-3.1.0.apk) |
-.
+✅ [دانلود نسخه عمومی ](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-universal-3.1.0.apk)
+
+
+✅ [دانلود نسخه گوشی‌های جدید](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-arm64-v8a-3.1.0.apk)
+
+✅ [دانلود نسخه گوشی‌های قدیمی](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-armeabi-v7a-3.1.0.apk)
+
 
 ---
 
@@ -39,7 +40,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ddcc941e-1d23-4c67-bd18-94510b28e6ba" width="230">
   &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/9cc613f7-88d0-4858-bc4f-3ed6ee7ccec8" width="200">
+
 </p>
 
 ---
