@@ -14,15 +14,14 @@
 
 ## 🍎 آیفون (iOS)
 
-- [دانلود از App Store](https://testflight.apple.com/join/FQkEGDfX)
-- [فیلم آموزش نصب](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
+🍏 [دانلود از AppStore](https://testflight.apple.com/join/FQkEGDfX)
+
+🎬 [فیلم آموزش نصب](https://drive.google.com/file/d/1ZNYhNTZCxctBvze1bEsSok4ujWjHx756/view?usp=drive_web)
 
 ---
+ 
 
-## 💻 ویندوز
-
-[دانلود نسخه ویندوز](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/windows/Connectix-3.1.0.161-x64-setup.zip)
-
+## 🖥️ [دانلود نسخه ویندوز] (https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/windows/Connectix-3.1.0.161-x64-setup.zip)
 ---
 
 ## 🔄 آموزش بروزرسانی کانکشن‌ها
