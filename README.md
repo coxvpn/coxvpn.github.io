@@ -20,7 +20,7 @@
 
 ---
  
-## 💻 Windows (ویندوز)
+## 💻 ویندوز (Wnidows)
 
 🖥️ [دانلود نسخه ویندوز](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/windows/Connectix-3.1.0.161-x64-setup.zip)
 
