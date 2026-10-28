@@ -9,6 +9,9 @@
 
 ✅ [دانلود نسخه گوشی‌های قدیمی](https://connect-apps.s3.ir-thr-at1.arvanstorage.ir/android/Connectix-armeabi-v7a-3.1.0.apk)
 
+✅ [نصب از گوگل پلی ](https://play.google.com/store/apps/details?id=uk.connectix.app.play)
+
+
 
 ---
 
